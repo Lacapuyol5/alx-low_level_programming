@@ -2,12 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main - Entry point
- * Description- This is a simple word processing function
+ * Description: Using the main function this program
+ * prints alphabet in upper and lower case followed
+ * by a new line.
+ * main - entry point
 
  * Return: Always 0 (success)
  */
 int main(void)
+
 {
 	char low;
 
