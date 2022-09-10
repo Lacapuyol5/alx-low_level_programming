@@ -1,11 +1,11 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /**
-* main - entrypoint 
-*
-* Return: always success
-*/
+ * main - Entrypoint 
+ *
+ * Return: Always success
+ */
 int main(void)
 {
 
@@ -22,5 +22,4 @@ else (n < 0)
         printf("%d is negative\n", n);
      	   
 return (0);
-
 }
