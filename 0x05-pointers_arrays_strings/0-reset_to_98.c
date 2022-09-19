@@ -13,4 +13,5 @@ void reset_to-98(int *n)
 	ptr = n;
 
 	*ptr = 98;
+	return (0);
 }
